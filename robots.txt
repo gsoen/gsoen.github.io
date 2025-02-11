@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gsoen.csgad.com/ECx/sitemap.xml.gz
